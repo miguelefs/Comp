@@ -1,4 +1,4 @@
-/*Tarefa de Computação 4: E6T1
+/*E6T1
 <circuito com variáveis globais e intervalo definido.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <29/03/21>

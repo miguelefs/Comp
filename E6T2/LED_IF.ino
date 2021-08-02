@@ -1,4 +1,4 @@
-/*Tarefa de Computação 4: E6T2
+/*E6T2
 <circuito de alternar LEDs com IF .> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <29/03/21>

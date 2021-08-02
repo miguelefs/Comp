@@ -1,4 +1,4 @@
-/*Tarefa de Computação 1: E3T1
+/*E3T1
 <circuito com 2 leds alternando.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <05/03/21>

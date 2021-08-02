@@ -1,4 +1,4 @@
-/*Tarefa de Computação 1: E3T3
+/*E3T3
 <circuito com semáforos de cruzamento.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <05/03/21>

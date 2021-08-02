@@ -1,4 +1,4 @@
-/*Tarefa de Computação 2: E4T1
+/*E4T1
 <circuito botão e LED.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <12/03/21>

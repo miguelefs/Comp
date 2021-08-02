@@ -1,4 +1,4 @@
-/*Tarefa de Computação 5: E7T1
+/*E7T1
 <Circuito do "Jogo, acerte o LED" com comando for.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <07/04/21>

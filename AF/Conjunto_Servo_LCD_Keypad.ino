@@ -1,4 +1,4 @@
-/*Prova de computação: AF
+/*AF
 <Circuito com o conjunto de servomotor, painel LCD e keypad.> 
 Elaborada por: <Miguel Escorsin F.S, Fernanda Shinohara, Raissa Kamille Martins>
 Data: <11/05/21>

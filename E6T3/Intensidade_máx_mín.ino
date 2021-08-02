@@ -1,4 +1,4 @@
-/*Tarefa de Computação 4: E6T3
+/*E6T3
 <circuito intensidade variando entre máximo e mínimo.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <29/03/21>

@@ -1,4 +1,4 @@
-/*Tarefa de Computação 2: E4T3
+/*E4T3
 <circuito semáforo inteligente Parte2.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <12/03/21>

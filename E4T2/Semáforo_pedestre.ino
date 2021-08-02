@@ -1,4 +1,4 @@
-/*Tarefa de Computação 2: E4T2
+/*E4T2
 <circuito semáforo inteligente com semáforo de pedestre.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <12/03/21>

@@ -1,4 +1,4 @@
-/*Tarefa de Computação 1: E3T2
+/*E3T2
 <circuito semáforos funcionando simultâneamente.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <05/03/21>

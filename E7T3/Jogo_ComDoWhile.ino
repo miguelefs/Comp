@@ -1,4 +1,4 @@
-/*Tarefa de Computação 5: E7T3
+/*E7T3
 <Circuito do "Jogo, acerte o LED" com comando DO WHILE.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <07/04/21>

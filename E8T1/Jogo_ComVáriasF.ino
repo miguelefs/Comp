@@ -1,4 +1,4 @@
-/*Tarefa de Computação 6: E8T1
+/*E8T1
 <Circuito do "Jogo, acerte o LED" com várias funções.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <14/04/21>

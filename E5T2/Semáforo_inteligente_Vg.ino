@@ -1,4 +1,4 @@
-/*Tarefa de Computação 3: E5T2
+/*E5T2
 <circuito semáforo inteligente com variáveis globais.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <23/03/21>

@@ -1,4 +1,4 @@
-/*Tarefa de Computação 7: E9T1
+/*E9T1
 <Circuito utilizando a função random.> 
 Elaborada por: <Miguel Escorsin F.S>
 Data: <21/04/21>
